@@ -1,0 +1,74 @@
+html {
+    width: 100%;
+}
+.parrafo {
+    font-family: verdana;
+    font-size: 50px;
+    position: absolute;
+   
+}
+
+p {
+    font-family: verdana;
+    font-size: 50px;
+    position: relative;
+    display: inline;
+
+    
+}
+
+a {
+    font-family: Verdana;
+    font-size: 50px;
+    color: #009432;
+    display: inline;
+    
+
+}
+a:hover {
+    color: orange;
+  }
+
+.Rojo {
+    font-family: verdana;
+    font-size: 50px;
+    color: #EA2027;
+    display: inline;
+}
+    
+
+.Subrayado {
+    font-family: verdana;
+    font-size: 50px;
+    color: black;
+    text-decoration: overline underline; 
+    display: inline;
+}
+  
+
+.Negro {
+
+    font-family: verdana;
+    font-size: 90px;
+    color: black;
+    font-weight: bold;
+    display: inline;
+
+}
+
+.Azul {
+    font-family: verdana;
+    font-size: 50px;
+    color: #0652DD;
+    display: inline;
+
+
+}
+.Subrayado2 {
+    font-family: verdana;
+    font-size: 50px;
+    color: #EA2027;
+    text-decoration: underline;
+    display: inline;
+    
+}
